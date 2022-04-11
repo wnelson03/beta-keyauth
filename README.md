@@ -1,12 +1,10 @@
 # beta-keyauth
 early version of my new KeyAuth dashboard, hope to release mid-april 👍
-I've been working on organizing the code, and a smoother UI experience. I think you'll like it when I release production version.
+I've been working on organizing the code, and a smoother UI experience. I think you'll like it when I release production version. https://keyauth.win/
 
 # Screenshots
 
 ![Dashboard](https://dl.supers0ft.us/anonupload/files/1OCznu2pXg5PjiG-67AACA8C-9CCD-45F7-8181-85CC4D0668CA.jpeg "Dashboard")
-
-https://keyauth.win/
 
 ## License
 
