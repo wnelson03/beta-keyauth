@@ -4,6 +4,9 @@ I've been working on organizing the code, and a smoother UI experience. I think 
 
 https://keyauth.win/
 
+## Screenshots
+
+![KeyAuth Dashboard Screenshot](https://dl.supers0ft.us/anonupload/files/1OCznu2pXg5PjiG-67AACA8C-9CCD-45F7-8181-85CC4D0668CA.jpeg "KeyAuth Dashboard)]
 ## License
 
 **Use of this source-code is strictly exclusive to personal, non-commercial use**
